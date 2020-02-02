@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.main-visual{
+	background-image: url(img/mv.jpg);
+	height:400px;
+	width:100%;
+	background-size: cover;
+	background-position: bottom;
+}
+
+.main-visual-text{
+	padding: 20px;
+}
+
+main{
+	width:840px;
+	margin: 50px auto;
+}
+
+
+
+.school-item1{
+	padding-bottom:30px ;
+	border-bottom: 1px solid #acabab;
+}
+
+.school-item2{
+	padding-top: 30px;
+	padding-bottom:30px ;
+	border-bottom: 1px solid #acabab;
+}
+
+.school-item3{
+	padding-top: 30px;
+	padding-bottom:30px ;
+	border-bottom: 1px solid #acabab;
+}
+
+.school-item4{
+	padding-top: 30px;
+	padding-bottom:30px ;
+	border-bottom: 1px solid #acabab;
+}
+.school-text h3{
+	font-size: 12px;
+	padding-top:10px;
+}
+
