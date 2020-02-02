@@ -12,9 +12,9 @@
 }
 
 header{
-	width:90%;
+	width:100%;
 	padding:20px 0;
-	margin: 0 auto;
+	
 	text-align: center;
 }
 
@@ -23,13 +23,122 @@ header .headline{
 	
 }
 
+.nav{
+	border: solid gray;
+	border-top-width: 1px;
+	border-left-width: 0px;
+	border-bottom-width: 1px;
+	border-right-width: 0px;
+}
+
 .nav-list{
-	text-align:center;
+	
 	margin: 0 auto;
-	list-style:none;
+	text-align:center;
 }
 
 .nav-list-item{
-	float:left;
+	display: inline-block;
 	padding:20px;
+	
+}
+
+.color-list{
+	width:800px;
+	margin: 50px auto;
+}
+
+.box1{
+	height:200px;
+	width:200px;
+	background-color:#E6FFE9;
+	float:left;
+
+}
+
+.box2{
+  width: 200px;
+  height: 200px;
+  background-color: #CBFFD3;
+  float: left;
+}
+
+.box3{
+  width: 200px;
+  height: 200px;
+  background-color: #AEFFBD;
+  float: left;
+}
+
+.box4{
+  width: 200px;
+  height: 200px;
+  background-color: #93FFAB;
+  float: left;
+}
+
+.box5{
+  width: 200px;
+  height: 200px;
+  background-color: #F3FFD8;
+  float: left;
+}
+
+.box6{
+  width: 200px;
+  height: 200px;
+  background-color: #EDFFBE;
+  float: left;
+}
+
+.box7{
+  width: 200px;
+  height: 200px;
+  background-color: #E9FFA5;
+  float: left;
+}
+
+.box8{
+  width: 200px;
+  height: 200px;
+  background-color: #E4FF8D;
+  float: left;
+}
+
+.box9{
+  width: 200px;
+  height: 200px;
+  background-color: #D9E5FF;
+  float: left;
+}
+
+.box10{
+  width: 200px;
+  height: 200px;
+  background-color: #BAD3FF;
+  float: left;
+}
+
+.box11{
+  width: 200px;
+  height: 200px;
+  background-color: #A4C6FF;
+  float: left;
+}
+
+.box12{
+  width: 200px;
+  height: 200px;
+  background-color: #8EB8FF;
+  float: left;
+}
+footer{
+	height: 120px;
+	text-align: center;
+	background-color:gray;
+	padding: 50px 0;
+}
+
+.footer-text{
+	color: #fff;
 }
